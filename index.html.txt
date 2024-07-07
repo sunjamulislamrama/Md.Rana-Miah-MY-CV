@@ -1,139 +1,72 @@
-  <!DOCTYPE html>
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CV for Md.Rana Miah</title>
-        <link rel="stylesheet" href="design.css">
-    </head>
+ <!DOCTYPE html>
+<html>
     <body>
-        <div class="container">
-           <div class="avatar">
-            <img src="images/rana.jpg" alt="">
-           </div>
-           <div class="name">
-                <h1>Md.Rana Miah</h1>
-                <ul class="contact">
-                    <li>
-                        <span>P</span> Contact:01810402141
-                    </li>
-                    <li>
-                        <span>E</span> Email: sunjamulislamrana@gmail.com
-                    </li>
+        <h1 style="text-align:center;">CV</h1>
+        <p style="text-align:center;"><img src="rana.jpg" alt="image.jpg" width="104" height="142">
+         <p style="text-align:center;"><b>Md.Rana miah</b></p>
+         <p style="text-align:center;"><a href="www.gmail.com"target="_blank">E-mail:sunjamulislamrana@gmail.com</a></p>
+        
+         <p style="text-align:center;"><b>Cell:01810402141</b></p>
 
-                    <li>
-                        <span>A</span> Address: Tangail sadar,Tangail.
-                    </li>
+         <h2><p style="color:rgb(255, 0, 55);"><ins>PROFILE</ins></p></h2>
+<p>Name         : Md. Rana Miah</p>
+<p>Father's Name: MD. Manik Miah</p>
+<P>Mother's Name:Malaka Begum</P>
+<p>Date Of birth: 03,08,2000</p>
+<p>Present address: Road:nagorpur road, <br>Village:alowa tarini, <br> Post Office:Tangail, <br> Post code:1900, <br>Upazila:Tangail, <br> Zila:Tangail </p>
+<p>Permanent address: Road:nagorpur road, <br>Village:alowa tarini, <br> Post Office:Tangail, <br> Post code:1900, <br>Upazila:Tangail, <br> Zila:Tangail </p>
+<p>Nationality:Bangladeshi</p>
+<p>NID:9158574823</p>
+<p>Religion:Islam</p>
+<p>Gender:Male</p>
+<p>Maritial Status:Unmarried</p>
+<p>Blood Group:AB+</p>
+<p>Mobile NO: 01810402141</p>
 
-                </ul>
-           </div>
-           <div class="details">
-                <ul>
-                    <li>Father's Name: Md.Manik Miah</li>
-                    <li>Mother's Name: Malaka Begum</li>
-                    <li>Date of Birth: 03 Aug,2000</li>
-                    <li>Gender: Male </li>
-                    <li>Religion: Islam</li>
-                    <li>Present Address: Alowa Tarini, Tangail sadar, Tangail, Dhaka</li>
-                    <li>Permanent Address:Alowa Tarini, Tangail</li>
-                    <li>Nationality: Bangladeshi</li>
-                    <li>Marital Status: Single</li>
-                </ul>
-           </div>
-           <div class="intro">
-            <h2>OBJECTIVES</h2>
-            Dedicated and detail-oriented professional with extensive expertise in computer typing, comprehensive proficiency in all Microsoft software, and strong capabilities in front-end development. Seeking a challenging position where my exceptional typing speed, advanced software knowledge, and creative web development skills can contribute to the efficiency and success of the organization. Committed to delivering high-quality work with a focus on accuracy, innovation, and client satisfaction.
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<body>
+<h2><p style="color:rgb(255, 0, 55);"><ins>EDUCATION QUALIFICATION</ins></p></h2>
 
-           </div>
-           <div class="experience">
-            <h2>EXPERIENCE</h2>
+    
 
-            <div class="item">
-                <li>I had been working as a marketing planer in Legends coaching center.</li>
-                <li>I have been working as a management head in ... center.</li>
-            </div>
+    <table style="width:100%;"
+    <tr>
+        <th>Exam Name</th>
+        <th>Institute</th>
+        <th>Group</th>
+        <th>Passing Year</th>
+        <th>Board</th>
+        <th>Result</th>
+    </tr>
+    <tr>
+        <td>H.S.C</td>
+        <td> govt. M.m ali College</td>
+        <td>art</td>
+        <td>2019</td>
+        <td>Dhaka</td>
+        <td>2.67</td>
+    </tr>
+    <tr>
+        <td>S.S.C</td>
+        <td>haji abul hossain adorso High School</td>
+        <td>Science</td>
+        <td>2018</td>
+        <td>Dhaka</td>
+        <td>4.44/td>
+    </tr>
+</table>
 
-                <h2 class="skills">COMPUTER SKILL</h2>
+<h2><p style="color:rgb(255, 0, 55);"><ins>COMPUTER SIKLLS:</ins></p></h2>
+<p>Basic Computer Application,WEB DEVLOPMENT</p>
 
-                <ul style="font-weight: bold;">
-                    <li>Good typing in English and Bangali.</li>
-                    <li>Profession computer cirtificate.</li>
-                    <li>Well-known about Microsoft windows,MS Word,MS Exel,MS Powerpoint,Internet.</li>
-                </ul>
+<h2><p style="color:rgb(255, 0, 55);"><ins>LANGUAGE SKILLS:</ins></p></h2>
+<p>Listening,Reading,writting both English And Bangla </p>
+<br><br>
+<p style="text-align:right;"><b>Md.Rana Miah</b></p>
 
-                <h2 class="skills">
-                    LANGUAGE SKILLS
-                </h2>
-                <ul>
-                    <li>English</li>
-                    <li>Bangla</li>
-                    <li>Hindi</li>
-                    <li>Urdu</li>
-                </ul>
-
-           </div>
-           <div class="project">
-            <h2>PROJECTS</h2>
-            <div class="item">
-                <h4>As a versatile professional with extensive expertise in front-end development and comprehensive proficiency in Microsoft Office Suite, I have successfully developed and launched multiple responsive websites, writing over 20,000 lines of code using HTML, CSS, JavaScript, and React. My projects include creating dynamic CV templates and contributing to high-profile web development projects at [Well-Known Company Name] in Bangladesh. Additionally, I have leveraged advanced functions and macros in Microsoft Excel, along with creating detailed reports and presentations in Word and PowerPoint, to enhance project documentation and streamline workflows. My ability to collaborate effectively with cross-functional teams and adhere to agile methodologies ensures the delivery of high-quality, user-centric web solutions.</h4>
-                <div class="time">
-                    2018-...
-                </div>
-                <div class="location">
-                    Computer specialist
-                </div>
-            </div>
-            <div class="item">
-                <h4>Education Qulafication</h4>
-                <div class="des">
-                    <ul>
-                        <table>
-                            <tr>
-                               <th>Exam</th>
-                               <th>Subject</th>
-                               <th>Result</th>
-                               <th>Passing year</th>
-                            </tr>
-                            <tr>
-                                <td>BSc </td>
-                                <td> Botany </td>
-                                <td> studying</td>
-                                <td>...</td>
-                             </tr>
-                             <tr>
-                                <td>HSC</td>
-                                <td>Science  </td>
-                                <td> 2.67 </td>
-                                <td> 2018 </td>
-                             </tr> 
-                             <tr>
-                                <td> SSC </td>
-                                <td> Science</td>
-                                <td> 4.44 </td>
-                                <td> 2016 </td>
-                              </tr>
-                            </table>
-                    </ul>
-                </div>
-            </div>
-            <div class="item">
-                <h4>Reference</h4>
-                <ul>
-                    <p> <li>Professor Md Shofik</li>
-                        <li>Department of Botany, Dhaka University.</li>
-                        <li>Phone:000000000000</li>
-                    </p>
-                </ul>
-            </div>
-           </div>
-
-           <div style="margin-top: 100px;">
-
-            <p>In the above circumstances,I hope and believe that you would kind enough to consider my application and appoint me to the post prayed for.</p>
-            <p>Your Faithfully,</p>
-            <p>Shakira</p>  
-         </div>
-
-        </div>
     </body>
-    </html>
+</html>
